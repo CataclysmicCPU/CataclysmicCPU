@@ -1,4 +1,4 @@
-I like coding or smth 
+i like coding
 
 <!---
 CataclysmicCPU/CataclysmicCPU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
